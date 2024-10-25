@@ -1,3 +1,6 @@
+AOS.init();
+
 function subscription(){
-    alert("Thanks for your Subscription")
+alert("Thanks for your Subscription")
 }
+
